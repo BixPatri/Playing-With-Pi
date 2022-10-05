@@ -28,4 +28,4 @@ the speed.
 
 https://www.youtube.com/watch?v=jsYwFizhncE&t=0s&ab_channel=3Blue1Brown
 
-https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWlJTGVDa29IX09aOEQ2UG9sdzJZOFJMRlNIUXxBQ3Jtc0tuWTJTSkpfbmRMc2hVYzlNM2tSNC1sOHRIV3hQek5PdkkydWZ4VU1UdkhpZ1JqQUh5VHZ5QkZVcUdvVUtXMEF2b2R4Smt4SjU4YzVGNkhzWkxUb1VNckZwdHpacGsxcGJ4NVRPTWR6NzlCT3g0U2xfUQ&q=https%3A%2F%2Fwww.maths.tcd.ie%2F%7Elebed%2FGalperin.%2520Playing%2520pool%2520with%2520pi.pdf&v=jsYwFizhncE
+https://www.maths.tcd.ie/~lebed/Galperin.%20Playing%20pool%20with%20pi.pdf
